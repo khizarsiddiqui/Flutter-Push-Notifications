@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857307782822",
+    "project_id": "push-notifications-4cce5",
+    "storage_bucket": "push-notifications-4cce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857307782822:android:b91bd7532db6eb467c5e67",
+        "android_client_info": {
+          "package_name": "com.flutter.fcm.fcmflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1j1cj7_iSUto2HznANIXRfEP54xOy18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
